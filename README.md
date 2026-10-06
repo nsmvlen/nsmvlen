@@ -29,6 +29,8 @@
 * PlantUML, draw.io, Figma, Miro
 * Visual Studio Code, Git
 
+  ---
+
   ### Контакты
 
 * **Email:** nessa90@yandex.ru
